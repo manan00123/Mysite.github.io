@@ -104,9 +104,6 @@ background: -webkit-linear-gradient( center top, #e6a1a1 5%, #7f2bb8 100% );
   background-image: linear-gradient(to bottom, #031b2b, #3498db);
   text-decoration: none;
 }
-img:hover{
-  background-color: gold;
-}
 /* mouse over link */
 a:hover {
   color: #fed049;
